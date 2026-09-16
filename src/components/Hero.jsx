@@ -29,7 +29,7 @@ function Hero() {
           </h2>
 
           <p className="text-gray-400 mt-6 leading-8 text-lg">
-            Motivated Computer Science graduate passionate about
+            Motivated CS graduate passionate about
             building efficient applications, solving problems,
             and continuously learning modern technologies.
           </p>
