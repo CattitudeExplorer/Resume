@@ -30,12 +30,12 @@ function Education() {
 
           {/* Degree */}
           <h3 className="text-3xl font-bold text-blue-400 mb-5">
-            PhD Artificial Intelligence
+            PhD Artificial Intelligence Machine Learning
           </h3>
 
           {/* College */}
           <p className="text-gray-300 text-xl leading-8">
-             Harvard University
+             Stanford University 
           </p>
 
           {/* Year */}
@@ -45,7 +45,7 @@ function Education() {
 
           {/* CGPA */}
           <p className="text-white text-lg mt-3">
-            CGPA : 10
+            Score : 10
           </p>
 
         </motion.div>
