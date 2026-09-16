@@ -50,7 +50,7 @@ function Contact() {
               className="flex items-center gap-5 text-gray-300 hover:text-blue-400 transition duration-300 text-lg"
             >
               <FaEnvelope className="text-2xl" />
-              developer@gmail.com
+              buffett@gmail.com
             </a>
 
             {/* Phone */}
