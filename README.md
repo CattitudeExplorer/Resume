@@ -1,4 +1,4 @@
 # React + Vite Portofolio for Interview
-### Deployment Live: 
-- Gh-pages: https://thinkphp.github.io/react-vite-portofolio/ 
-- Vercel: https://react-vite-portofolio-three.vercel.app/
+### Deployments Live: 
+- gh-pages: https://thinkphp.github.io/react-vite-portofolio/ 
+- vercel: https://react-vite-portofolio-three.vercel.app/
