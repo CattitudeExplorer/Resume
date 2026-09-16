@@ -25,7 +25,7 @@ function Hero() {
           </h1>
 
           <h2 className="text-2xl md:text-4xl font-semibold text-gray-300 mt-4">
-            Java Developer & Full Stack Enthusiast
+            React Developer & Full Stack Enthusiast
           </h2>
 
           <p className="text-gray-400 mt-6 leading-8 text-lg">
