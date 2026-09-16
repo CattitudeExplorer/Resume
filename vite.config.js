@@ -6,8 +6,5 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-  ],
-  base: process.env.DEPLOY_TARGET === 'github'
-    ? '/react-vite-portofolio/'
-    : '/',
+  ],  
 })
