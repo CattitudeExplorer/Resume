@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig(({ mode }) => ({
   plugins: [react(), tailwindcss()],
-  base: mode === 'gh-pages' ? '/react-vite-portofolio/' : '/',
+  base: mode === 'gh-pages' ? '/Resume/' : '/',
 }))
